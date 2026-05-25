@@ -7,7 +7,7 @@ Voici l'apparence générale de notre robot ainsi que sa caméra intelligente Hu
 
 | Vue d'ensemble du Robot | Zoom sur la Caméra HuskyLens |
 | :---: | :---: |
-| ![Photo du Robot Complet](LIEN_IMAGE_ROBOT) | ![Détail de la caméra](LIEN_IMAGE_CAMERA) |
+| ![Photo du Robot Complet]() | ![Détail de la caméra]() |
 
 ---
 # PROJET-ROBOT-HUSKYLENS- 
