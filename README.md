@@ -7,7 +7,9 @@ Voici l'apparence générale de notre robot ainsi que sa caméra intelligente Hu
 
 | Vue d'ensemble du Robot | Zoom sur la Caméra HuskyLens |
 | :---: | :---: |
-| ![Photo du Robot Complet]() | ![Détail de la caméra]() |
+| ![Photo du Robot Complet](<img width="974" height="1080" alt="WhatsApp Image 2026-05-25 at 17 34 15" src="https://github.com/user-attachments/assets/3ba34f29-64ab-4ec5-921c-f833b51e811a" />
+) | ![Détail de la caméra](<img width="1284" height="1701" alt="WhatsApp Image 2026-05-25 at 17 37 33" src="https://github.com/user-attachments/assets/441e3f6f-9e1f-44ab-9edf-f873c610f0a8" />
+) |
 
 ---
 # PROJET-ROBOT-HUSKYLENS- 
