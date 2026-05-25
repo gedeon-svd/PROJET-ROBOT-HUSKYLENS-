@@ -167,6 +167,7 @@ void carTurnRight(int leftSpeed, int rightSpeed) {
   analogWrite (speedPin_M1, rightSpeed);
   digitalWrite(directionPin_M2, LOW);
 }
+```
 
 ## Partie 2 : Suivi de Ligne avec la Caméra (Line Tracking)
 
