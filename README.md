@@ -171,7 +171,8 @@ void carTurnRight(int leftSpeed, int rightSpeed) {
 }
 ```
 
-## Partie 2 : Suivi de Ligne avec la Caméra (Line Tracking)
+## Partie 2 : Suivi de Ligne avec la Caméra (Line Tracking) 
+Pour bien configuré la fonction "line tracking " du Huskylens:https://wiki.dfrobot.com/sen0305/docs/22638
 
 ### Description
 Cette deuxième partie utilise la caméra intelligente **HuskyLens** configurée avec l'algorithme de suivi de ligne (*Line Tracking*). Au lieu de détecter de simples obstacles, le robot doit maintenant analyser une trajectoire au sol (représentée par une flèche directionnelle sur l'écran de la caméra) et adapter sa direction en temps réel pour rester parfaitement centré sur la ligne.
