@@ -31,7 +31,7 @@ Cette première partie consistait à faire naviguer le robot de manière autonom
    - Il regarde complètement à gauche (150°) et enregistre la distance.
    - Il compare les deux valeurs et pivote pendant 450 ms du côté où le chemin est le plus libre avant de repartir en marche avant.
 
-### Visuels du Labyrinthe
+### 
 ### Code Arduino
 ```cpp
 #include <Servo.h>
