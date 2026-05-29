@@ -169,6 +169,11 @@ void carTurnRight(int leftSpeed, int rightSpeed) {
   analogWrite (speedPin_M1, rightSpeed);
   digitalWrite(directionPin_M2, LOW);
 }
+
+
+https://github.com/user-attachments/assets/fdabae11-d3c0-4aed-86a4-bff8deea6e09
+
+
 ```
 
 ## Partie 2 : Suivi de Ligne avec la Caméra (Line Tracking) 
@@ -380,6 +385,11 @@ void carBack(int leftSpeed, int rightSpeed){
   analogWrite (speedPin_M1, rightSpeed);
   digitalWrite(directionPin_M2, HIGH);
 }
+
+
+https://github.com/user-attachments/assets/009323ef-d60d-40de-a85a-219c04ce4aff
+
+
 ```
 
 
@@ -505,3 +515,8 @@ void motorForward(int leftSpeed, int rightSpeed) {
   analogWrite(speedPin_M1, rightSpeed);
   digitalWrite(directionPin_M2, LOW);
 }
+
+
+https://github.com/user-attachments/assets/b169eedc-7fc7-43c5-a09f-10ae5ca6aecf
+
+
